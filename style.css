@@ -1,0 +1,12 @@
+body {
+	margin: 10px;
+	padding: 10px;
+	border: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+  font: normal 18px/1.5 "Montserrat", helvetica, arial, sans-serif;
+}
+
+h1 {
+    text-shadow: 1px 1px 1px orange;
+}
